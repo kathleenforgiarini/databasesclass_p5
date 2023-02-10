@@ -1,0 +1,44 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYHH:MI:SS')               
+-----------------------------------------------------
+09 Fevereiro 2023 05:25:02
+
+
+Procedure P5QUESTION2 compilado
+
+Item: 3-Season Tent. Price: $346,05. Color: Sky Blue. Quantity on hand: 16
+Item: 3-Season Tent. Price: $259,99. Color: Light Grey. Quantity on hand: 12
+Item: Women's Hiking Shorts. Price: $29,95. Color: Khaki. Quantity on hand: 150
+Item: Women's Hiking Shorts. Price: $29,95. Color: Khaki. Quantity on hand: 147
+Item: Women's Hiking Shorts. Price: $29,95. Color: Khaki. Quantity on hand: 0
+Item: Women's Hiking Shorts. Price: $29,95. Color: Navy. Quantity on hand: 139
+Item: Women's Hiking Shorts. Price: $29,95. Color: Navy. Quantity on hand: 137
+Item: Women's Hiking Shorts. Price: $29,95. Color: Navy. Quantity on hand: 115
+Item: Women's Fleece Pullover. Price: $59,95. Color: Eggplant. Quantity on hand: 135
+Item: Women's Fleece Pullover. Price: $59,95. Color: Eggplant. Quantity on hand: 168
+Item: Women's Fleece Pullover. Price: $59,95. Color: Eggplant. Quantity on hand: 187
+Item: Women's Fleece Pullover. Price: $59,95. Color: Royal. Quantity on hand: 0
+Item: Women's Fleece Pullover. Price: $59,95. Color: Royal. Quantity on hand: 124
+Item: Women's Fleece Pullover. Price: $59,95. Color: Royal. Quantity on hand: 112
+Item: Children's Beachcomber Sandals. Price: $15,99. Color: Turquoise. Quantity on hand: 121
+Item: Children's Beachcomber Sandals. Price: $15,99. Color: Turquoise. Quantity on hand: 111
+Item: Children's Beachcomber Sandals. Price: $15,99. Color: Turquoise. Quantity on hand: 113
+Item: Children's Beachcomber Sandals. Price: $15,99. Color: Turquoise. Quantity on hand: 121
+Item: Children's Beachcomber Sandals. Price: $15,99. Color: Bright Pink. Quantity on hand: 148
+Item: Children's Beachcomber Sandals. Price: $15,99. Color: Bright Pink. Quantity on hand: 137
+Item: Children's Beachcomber Sandals. Price: $15,99. Color: Bright Pink. Quantity on hand: 134
+Item: Children's Beachcomber Sandals. Price: $15,99. Color: Bright Pink. Quantity on hand: 123
+Item: Men's Expedition Parka. Price: $199,95. Color: Spruce. Quantity on hand: 114
+Item: Men's Expedition Parka. Price: $199,95. Color: Spruce. Quantity on hand: 17
+Item: Men's Expedition Parka. Price: $209,95. Color: Spruce. Quantity on hand: 0
+Item: Men's Expedition Parka. Price: $209,95. Color: Spruce. Quantity on hand: 12
+Item: Boy's Surf Shorts. Price: $15,95. Color: Blue. Quantity on hand: 50
+Item: Boy's Surf Shorts. Price: $15,95. Color: Blue. Quantity on hand: 100
+Item: Boy's Surf Shorts. Price: $15,95. Color: Blue. Quantity on hand: 100
+Item: Girl's Soccer Tee. Price: $19,99. Color: White. Quantity on hand: 100
+Item: Girl's Soccer Tee. Price: $19,99. Color: White. Quantity on hand: 100
+Item: Girl's Soccer Tee. Price: $19,99. Color: White. Quantity on hand: 100
+
+
+Procedimento PL/SQL concluído com sucesso.
+

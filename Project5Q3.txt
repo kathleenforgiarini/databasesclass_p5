@@ -1,0 +1,44 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYHH:MI:SS')               
+-----------------------------------------------------
+10 Fevereiro 2023 12:48:16
+
+
+Procedure P5QUESTION3 compilado
+
+Old price: $259,99. New price: $285,989
+Old price: $259,99. New price: $285,989
+Old price: $29,95. New price: $32,945
+Old price: $29,95. New price: $32,945
+Old price: $29,95. New price: $32,945
+Old price: $29,95. New price: $32,945
+Old price: $29,95. New price: $32,945
+Old price: $29,95. New price: $32,945
+Old price: $59,95. New price: $65,945
+Old price: $59,95. New price: $65,945
+Old price: $59,95. New price: $65,945
+Old price: $59,95. New price: $65,945
+Old price: $59,95. New price: $65,945
+Old price: $59,95. New price: $65,945
+Old price: $15,99. New price: $17,589
+Old price: $15,99. New price: $17,589
+Old price: $15,99. New price: $17,589
+Old price: $15,99. New price: $17,589
+Old price: $15,99. New price: $17,589
+Old price: $15,99. New price: $17,589
+Old price: $15,99. New price: $17,589
+Old price: $15,99. New price: $17,589
+Old price: $199,95. New price: $219,945
+Old price: $199,95. New price: $219,945
+Old price: $209,95. New price: $230,945
+Old price: $209,95. New price: $230,945
+Old price: $15,95. New price: $17,545
+Old price: $15,95. New price: $17,545
+Old price: $15,95. New price: $17,545
+Old price: $19,99. New price: $21,989
+Old price: $19,99. New price: $21,989
+Old price: $19,99. New price: $21,989
+
+
+Procedimento PL/SQL concluído com sucesso.
+

@@ -1,0 +1,38 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYHH:MI:SS')               
+-----------------------------------------------------
+10 Fevereiro 2023 01:01:13
+
+
+Procedure P5QUESTION4 compilado
+
+KING 5000
+SCOTT 3000
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+KING 5000
+SCOTT 3000
+FORD 3000
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+KING 5000
+SCOTT 3000
+FORD 3000
+JONES 2975
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+KING 5000
+SCOTT 3000
+FORD 3000
+JONES 2975
+BLAKE 2850
+
+
+Procedimento PL/SQL concluído com sucesso.
+

@@ -1,0 +1,16 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYHH:MI:SS')               
+-----------------------------------------------------
+10 Fevereiro 2023 01:37:57
+
+
+Procedure P5QUESTION5 compilado
+
+Employees who make the top 2 salary are:
+KING 5000
+SCOTT 3000
+FORD 3000
+
+
+Procedimento PL/SQL concluído com sucesso.
+

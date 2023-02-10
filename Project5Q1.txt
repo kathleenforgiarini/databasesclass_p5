@@ -1,0 +1,18 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYHH:MI:SS')               
+-----------------------------------------------------
+09 Fevereiro 2023 05:09:28
+
+
+Procedure P5QUESTION1 compilado
+
+CLOSED - Fall 2005 - 1
+CLOSED - Spring 2006 - 2
+CLOSED - Summer 2006 - 3
+CLOSED - Fall 2006 - 4
+CLOSED - Spring 2007 - 5
+OPEN - Summer 2007 - 6
+
+
+Procedimento PL/SQL concluído com sucesso.
+
